@@ -1,0 +1,12 @@
+pandas
+selenium
+pytest
+requests
+pytest-bdd
+pytest-html
+pytest-xdist
+pillow
+keyboard
+webdriver-manager
+pytest-html-reporter
+sttable
